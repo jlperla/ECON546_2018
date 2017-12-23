@@ -7,9 +7,8 @@ See [Syllabus](syllabus.md) for more details
 While you can download files separately from this page, you are better off using GitHub.
 - Get a [GitHub](https://github.com/) account ID
     - Apply for the [Student Developer Pack](https://education.github.com/pack) for free stuff (including private repositories)
-    - Professors, use [Request a Discount](https://education.github.com/discount_requests/new) instead
 - Install a Git client.  The easiest is to use [GitHub Desktop](https://desktop.github.com/)
-- Go to the repository you are interested in (e.g. https://github.com/ubcecon/ECON407_2018) and click on the green `Clone or download` button, and choose `Open in Desktop`
+- Go to the repository you are interested in (e.g. https://github.com/ubcecon/ECON546_2018) and click on the green `Clone or download` button, and choose `Open in Desktop`
 - You will then have a copy of this git repository on your computer, wherever you choose to store it.
 - Unlike dropbox, GitHub will not automatically modify files on your local computer
     - Instead, you can see if there are changes on the server by opening up your git client (e.g. GitHub Desktop)
