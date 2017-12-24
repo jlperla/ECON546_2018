@@ -59,7 +59,6 @@ Furthermore, if you are a MA student interested in getting a PhD in Economics or
 
 -  Linear Gaussian state space models
 	-  First-order linear difference equations
-	-  Transversality, bubbles, and the connection to ODEs
 	-  Deterministic Linear state space models
 	-  Stochastic Linear state space models
 	-  Linear Quadratic Gaussian Control and certainty equivalence
@@ -67,7 +66,7 @@ Furthermore, if you are a MA student interested in getting a PhD in Economics or
 -  Computational and analytical components of macro and DSGE models
 	-  Stationarity, Log-linearization, and other techniques
 	-  Neoclassical growth and RBC into linear Gaussian systems
-	-  Building general equilibrium models on the computer
+	-  Solving general equilibrium models on the computer
 	-  Impulse response functions
 	-  Dixit-Stiglitz algebra, monopolistic competition, and price indices
 
