@@ -13,28 +13,28 @@ This is a graduate macroeconomics topics course with an emphasis on practical sk
 - **Instructor:** jesse.perla@ubc.ca
 - **Office Hours:** Thursday 10am-12pm in Iona 206
 - **Prerequisites:** Graduate macroeconomics 
-	- A little programming experience is very valuable, but you will be able to fill in the blanks with some hard work.
+  - A little programming experience is very valuable, but you will be able to fill in the blanks with some hard work.
 - **Textbook:** The following are not required, but worth owning:
-	- **Recursive Macroeconomic Theory**: }(2012), 3rd edition, Lars Ljungqvist and Thomas J. Sargent - Useful for understanding neoclassical growth, real business cycles, search, Kalman filter, etc.  Every graduate macro-economist should own it.
-	- **Monetary Theory and Policy** (2017), 4th edition, Carl E. Walsh - Masters-student oriented.  Good for topics on money-in-utility, nominal pricing frictions, the ``New Keynesian'' model, optimal monetary policy, etc.
-	- **QuantEcon**: We will be following a subset of the online textbook https://lectures.quantecon.org/jl/ for part of the course
+  - **Recursive Macroeconomic Theory**: }(2012), 3rd edition, Lars Ljungqvist and Thomas J. Sargent - Useful for understanding neoclassical growth, real business cycles, search, Kalman filter, etc.  Every graduate macro-economist should own it.
+  - **Monetary Theory and Policy** (2017), 4th edition, Carl E. Walsh - Masters-student oriented.  Good for topics on money-in-utility, nominal pricing frictions, the ``New Keynesian'' model, optimal monetary policy, etc.
+  - **QuantEcon**: We will be following a subset of the online textbook https://lectures.quantecon.org/jl/ for part of the course
 - **Learning Environment:** Come to class on time.   No cellphones.
 
 ## Course Materials and Communications
 All materials will be provided online:
-- Class Materials: https://github.com/ubcecon/ECON546_2018
+- Class Materials: https://github.com/jlperla/ECON546_2018
 - Communications, Announcements, and Grades: http://canvas.ubc.ca
 
 ## Grading
 This is intended to be a hands-on course, with a very high workload, but there will be no in-class exam.  The grade will be based on:
 
 - 6-10 problem sets/take home exams: 65%
-	- The problem sets will not have equal weighting, and some will be short
+  - The problem sets will not have equal weighting, and some will be short
 - Final data project: 20%
-	- Document "Just one fact" from a set of data-sets I give you.
-	- 2-3 tight pages
+  - Document "Just one fact" from a dataset list I give you
+  - 2-3 tight pages
 - Short referee report (from a list of approved journals): 15\%
-	- 2-3 pages
+  - 2-3 pages
 - PhD students: 1 guest lecture, and I expect you to complete many of the extra problems.
 
 A word of warning: if you have never taken a class with a lot of programming assignments, it is a great deal of work, but ultimately very rewarding.
@@ -51,34 +51,35 @@ To get started, go to https://github.com/econtoolkit/julia for more instructions
 
 ## Optional Problems and PhD Letters
 
-On most of the problem sets, there will be a few `optional' problems.  You can get a very good mark in the class without doing any of these problems, but do not expect an A+ on assignments if you don't attempt them.  
+On most of the problem sets, there will be a few `optional' problems.  You can get a very good mark in the class without doing any of these problems, but do not expect an A+ on assignments if you don't attempt them.
 
 Furthermore, if you are a MA student interested in getting a PhD in Economics or Finance -and want the option of having me as a letter writer - you should try to solve all of the extra credit problems as it greatly helps when I write letters.
 
 ## Course Outline
 
--  Linear Gaussian state space models
-	-  First-order linear difference equations
-	-  Deterministic Linear state space models
-	-  Stochastic Linear state space models
-	-  Linear Quadratic Gaussian Control and certainty equivalence
+- Linear Gaussian state space models
 
--  Computational and analytical components of macro and DSGE models
-	-  Stationarity, Log-linearization, and other techniques
-	-  Neoclassical growth and RBC into linear Gaussian systems
-	-  Solving general equilibrium models on the computer
-	-  Impulse response functions
-	-  Dixit-Stiglitz algebra, monopolistic competition, and price indices
+  - First-order linear difference equations
+  - Deterministic Linear state space models
+  - Stochastic Linear state space models
+  - Linear Quadratic Gaussian Control and certainty equivalence
 
--  Monetary economics and policy
-	-  Models with money in utility (MIU)
-	-  Monetary neutrality and super-neutrality
-	-  Simple models of nominal price frictions
-	-  The New Keynesian DSGE model (i.e., RBC + MIU + nominal frictions)
-	-  Time consistency of optimal monetary policy (Gaussian Linear-Quadratic framework)
+- Computational and analytical components of macro and DSGE models
+  - Stationarity, Log-linearization, and other techniques
+  - Neoclassical growth and RBC into linear Gaussian systems
+  - Solving general equilibrium models on the computer
+  - Impulse response functions
+  - Dixit-Stiglitz algebra, monopolistic competition, and price indices
+
+- Monetary economics and policy
+  - Models with money in utility (MIU)
+  - Monetary neutrality and super-neutrality
+  - Simple models of nominal price frictions
+  - The New Keynesian DSGE model (i.e., RBC + MIU + nominal frictions)
+  - Time consistency of optimal monetary policy (Gaussian Linear-Quadratic framework)
 
 - Continuous-time methods in macro and monetary economics
-	- Cook-book stochastic processes and dynamic programming problems
-	- Monetary search and models of liquidity
-	- Optimal stopping in continuous-time and variational-inequalities
-	- Simple models with heterogeneous firms and steady-state distributions.
+  - Cook-book stochastic processes and dynamic programming problems
+  - Monetary search and models of liquidity
+  - Optimal stopping in continuous-time and variational-inequalities
+  - Simple models with heterogeneous firms and steady-state distributions.
