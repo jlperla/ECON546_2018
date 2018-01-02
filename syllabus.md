@@ -14,10 +14,10 @@ This is a graduate macroeconomics topics course with an emphasis on practical sk
 - **Office Hours:** Thursday 10am-12pm in Iona 206
 - **Prerequisites:** Graduate macroeconomics 
   - A little programming experience is very valuable, but you will be able to fill in the blanks with some hard work.
-- **Textbook:** The following are not required, but worth owning:
-  - **Recursive Macroeconomic Theory**: }(2012), 3rd edition, Lars Ljungqvist and Thomas J. Sargent - Useful for understanding neoclassical growth, real business cycles, search, Kalman filter, etc.  Every graduate macro-economist should own it.
+- **Textbook:** The hardcopy textbooks are not required, but worth owning:
+  - **QuantEcon**: We will be following a subset of the online textbook https://lectures.quantecon.org/jl/ for part of the course, and the computational background
+  - **Recursive Macroeconomic Theory** (2012), 3rd edition, Lars Ljungqvist and Thomas J. Sargent - Useful for understanding neoclassical growth, real business cycles, search, Kalman filter, etc.  Every graduate macro-economist should own it.
   - **Monetary Theory and Policy** (2017), 4th edition, Carl E. Walsh - Masters-student oriented.  Good for topics on money-in-utility, nominal pricing frictions, the ``New Keynesian'' model, optimal monetary policy, etc.
-  - **QuantEcon**: We will be following a subset of the online textbook https://lectures.quantecon.org/jl/ for part of the course
 - **Learning Environment:** Come to class on time.   No cellphones.
 
 ## Course Materials and Communications
@@ -28,7 +28,7 @@ All materials will be provided online:
 ## Grading
 This is intended to be a hands-on course, with a very high workload, but there will be no in-class exam.  The grade will be based on:
 
-- 6-10 problem sets/take home exams: 65%
+- 8-10 problem sets/take home exams: 65%
   - The problem sets will not have equal weighting, and some will be short
 - Final data project: 20%
   - Document "Just one fact" from a dataset list I give you
@@ -47,7 +47,7 @@ For the computational parts of the course, the lectures notes are available in b
 
 When you are deciding on the language (which you can switch at will, or submit assignments in both!) consider that Julia is both less mature, but much more promising.  If you were just planning on using these skills in the next 6 months then Python is the best choice, but over the next 2-5 years it is worth the pain to learn Julia earlier.  See [Python vs. Julia](https://lectures.quantecon.org/about_lectures.html#python-or-julia) for more details.
 
-To get started, go to https://github.com/econtoolkit/julia for more instructions.  You should be able to do your coursework on python or julia hosted webservices (i.e. http://next.juliabox.com and https://pims.syzygy.ca) rather than installing any software.
+To get started, go to https://github.com/econtoolkit/julia for more instructions.  You should be able to do your coursework on python or julia hosted webservices (i.e. http://next.juliabox.com and (later: **not currently working**) https://pims.syzygy.ca) rather than installing any software.
 
 ## Optional Problems and PhD Letters
 
