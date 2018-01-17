@@ -19,12 +19,6 @@ We will use a combination of typed lecture notes, and [QuantEcon Lecture Notes](
 5. **January 17th** - Finish [Linear Quadratic Control](https://lectures.quantecon.org/jl/lqcontrol.html)
 
 ## Problem Sets
+See [Submitting Assignments](https://github.com/ubcecon/tutorials/blob/master/submitting_code.md) for details on how to submit code, and how to name the files.
 
 1. **Due January 31st** - [Assignment 1](/problem_sets/assignment_1.pdf)
-
-Unless otherwise specified, computational problem sets are to be sent as
-- A Jupyter `.ipynb` notebook and a `.pdf` output of the notebook.  To get the `.pdf` in JuliaBox, etc. you can just `Print` to a `.pdf` file
-- The naming convention for student `Jane Doe` submitting assignment `1` is `Doe_Jane_assignment_1.ipynb` and `Doe_Jane_assignment_1.pdf`, etc.
-- Please do not submit a zipped folder, or spread across files.  Also, please follow the naming conventions of the files to make it easier to organize.
-- Remember that you can type LaTeX into your `.ipynb` files, so please document any formulas/etc. as Markdown cells with math as required (especially when answers ask you for theory)
-- Where possible, try to use notation in the code which matches the math.  e.g. for parameter alpha, type as variable `\alpha<TAB>` to generate the Unicode symbol as the variable name from the latex code.

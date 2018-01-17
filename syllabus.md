@@ -12,7 +12,7 @@ This is a graduate macroeconomics topics course with an emphasis on practical sk
 
 - **Instructor:** jesse.perla@ubc.ca
 - **Office Hours:** Thursday 10am-12pm in Iona 206
-- **Prerequisites:** Graduate macroeconomics 
+- **Prerequisites:** Graduate macroeconomics
   - A little programming experience is very valuable, but you will be able to fill in the blanks with some hard work.
 - **Textbook:** The hardcopy textbooks are not required, but worth owning:
   - **QuantEcon**: We will be following a subset of the online textbook https://lectures.quantecon.org/jl/ for part of the course, and the computational background
@@ -65,6 +65,7 @@ Furthermore, if you are a MA student interested in getting a PhD in Economics or
   - Linear Quadratic Gaussian Control and certainty equivalence
 
 - Computational and analytical components of macro and DSGE models
+
   - Stationarity, Log-linearization, and other techniques
   - Neoclassical growth and RBC into linear Gaussian systems
   - Solving general equilibrium models on the computer
@@ -72,6 +73,7 @@ Furthermore, if you are a MA student interested in getting a PhD in Economics or
   - Dixit-Stiglitz algebra, monopolistic competition, and price indices
 
 - Monetary economics and policy
+
   - Models with money in utility (MIU)
   - Monetary neutrality and super-neutrality
   - Simple models of nominal price frictions
@@ -79,6 +81,7 @@ Furthermore, if you are a MA student interested in getting a PhD in Economics or
   - Time consistency of optimal monetary policy (Gaussian Linear-Quadratic framework)
 
 - Continuous-time methods in macro and monetary economics
+
   - Cook-book stochastic processes and dynamic programming problems
   - Monetary search and models of liquidity
   - Optimal stopping in continuous-time and variational-inequalities
