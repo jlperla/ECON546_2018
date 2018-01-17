@@ -17,6 +17,7 @@ We will use a combination of typed lecture notes, and [QuantEcon Lecture Notes](
     - Make sure you go through [Introductory Example](https://lectures.quantecon.org/jl/julia_by_example.html) and [Julia Essentials](https://lectures.quantecon.org/jl/julia_essentials.html) and [Vectors, Arrays, and Matrices](https://lectures.quantecon.org/jl/julia_arrays.html)
 4. **January 15th** - Finish [Linear Models](https://lectures.quantecon.org/jl/linear_models.html) and [Additional Examples](/lecture_notes/linear_models_addendum.pdf) and start [Linear Quadratic Control](https://lectures.quantecon.org/jl/lqcontrol.html)
 5. **January 17th** - [Linear Quadratic Control](https://lectures.quantecon.org/jl/lqcontrol.html)
+    - With [Additional Material](/lecture_notes/linear_quadratic_control_addendum.pdf)
 6. **January 22nd** - Solving stochastic difference equations in Dynare and Julia
 
 ## Problem Sets
