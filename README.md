@@ -19,6 +19,7 @@ We will use a combination of typed lecture notes, and [QuantEcon Lecture Notes](
 5. **January 17th** - [Linear Quadratic Control](https://lectures.quantecon.org/jl/lqcontrol.html)
     - With [Additional Material](/lecture_notes/linear_quadratic_control_addendum.pdf)
 6. **January 22nd** - Solving stochastic difference equations in Dynare and Julia
+7. **January 24th** - [Rational and Adaptive Expectations](/lecture_notes/rational_adaptive_expectations.pdf) and [Global and Local Solutions](/lecture_notes/global_local_solutions.pdf)
 
 ## Problem Sets
 See [Submitting Assignments](https://github.com/ubcecon/tutorials/blob/master/submitting_code.md) for details on how to submit code, and how to name the files.
