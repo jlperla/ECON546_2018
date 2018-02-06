@@ -29,3 +29,4 @@ We will use a combination of typed lecture notes, and [QuantEcon Lecture Notes](
 See [Submitting Assignments](https://github.com/ubcecon/tutorials/blob/master/submitting_code.md) for details on how to submit code, and how to name the files.
 
 1. **Due January 31st** - [Assignment 1](/problem_sets/assignment_1.pdf)
+2. **Due Febuary 16th** - [Assignment 2](/problem_sets/assignment_2.pdf)
