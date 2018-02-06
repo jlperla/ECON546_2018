@@ -24,6 +24,8 @@ We will use a combination of typed lecture notes, and [QuantEcon Lecture Notes](
 9. **January 31th** - [Real Business Cycles](/lecture_notes/real_business_cycles.pdf) and start [Monopolistic Competition](/lecture_notes/monopolistic_competition.pdf)
 10. **February 5th** - [Monopolistic Competition](/lecture_notes/monopolistic_competition.pdf) and maybe start [Money in Utility](/lecture_notes/money_in_utility.pdf)
 11. **February 7th** - [Money in Utility](/lecture_notes/money_in_utility.pdf)
+12. **February 12th** - University Holiday
+13. **February 14th** - [Money in Utility](/lecture_notes/money_in_utility.pdf) and Nominal Frictions
 
 ## Problem Sets
 See [Submitting Assignments](https://github.com/ubcecon/tutorials/blob/master/submitting_code.md) for details on how to submit code, and how to name the files.
