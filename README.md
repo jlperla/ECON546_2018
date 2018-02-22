@@ -25,10 +25,14 @@ We will use a combination of typed lecture notes, and [QuantEcon Lecture Notes](
 10. **February 5th** - [Monopolistic Competition](/lecture_notes/monopolistic_competition.pdf) and maybe start [Money in Utility](/lecture_notes/money_in_utility.pdf)
 11. **February 7th** - [Money in Utility](/lecture_notes/money_in_utility.pdf)
 12. **February 12th** - University Holiday
-13. **February 14th** - [Money in Utility](/lecture_notes/money_in_utility.pdf) and Nominal Frictions
+13. **February 14th** - [Money in Utility](/lecture_notes/money_in_utility.pdf)
+14. **February 26th**- Dynamics of [Money in Utility](/lecture_notes/money_in_utility.pdf) and [Nominal Frictions](/lecture_notes/nominal_frictions.pdf)
+15. **February 28th** - [Nominal Frictions](/lecture_notes/nominal_frictions.pdf)
 
 ## Problem Sets
 See [Submitting Assignments](https://github.com/ubcecon/tutorials/blob/master/submitting_code.md) for details on how to submit code, and how to name the files.
 
 1. **Due January 31st** - [Assignment 1](/problem_sets/assignment_1.pdf)
 2. **Due February 16th** - [Assignment 2](/problem_sets/assignment_2.pdf)
+3. **Due March 5th** - [Assignment 3](/problem_sets/assignment_3.pdf)
+    - This assignment has a lot of algebra/theory, and those components can be handed in separately.

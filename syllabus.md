@@ -28,12 +28,9 @@ All materials will be provided online:
 ## Grading
 This is intended to be a hands-on course, with a very high workload, but there will be no in-class exam.  The grade will be based on:
 
-- 8-10 problem sets/take home exams: 65%
+- 8-10 problem sets/take home exams: 80%
   - The problem sets will not have equal weighting, and some will be short
-- Final data project: 20%
-  - Document "Just one fact" from a dataset list I give you
-  - 2-3 tight pages
-- Short referee report (from a list of approved journals): 15\%
+- Short referee report (from a list of approved journals): 20\%
   - 2-3 pages
 - PhD students: 1 guest lecture, and I expect you to complete many of the extra problems.
 
