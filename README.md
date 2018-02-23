@@ -31,11 +31,11 @@ We will use a combination of typed lecture notes, and [QuantEcon Lecture Notes](
 16. **March 5th** - Finish [Nominal Frictions](/lecture_notes/nominal_frictions.pdf) and start [New Keynesian Model](/lecture_notes/new_keynesian.pdf)
 17. **March 7th** - Finish [New Keynesian Model](/lecture_notes/new_keynesian.pdf) and maybe start [Optimal Policy](/lecture_notes/monetary_policy_commitment.pdf)
 18. **March 12th** - Finish [Optimal Policy](/lecture_notes/monetary_policy_commitment.pdf)
-19. **March 14th** - 
+19. **March 14th** -
 20. **March 19th** -
 21. **March 21st** -
-22. **March 26th** - Guest Lecture on Optimal Policy
-23. **March 28th** - Empirical PhD presentations
+22. **March 26th** - Empirical PhD presentations/Tutorial
+23. **March 28th** - Empirical PhD presentations/Tutorial
 24. **April 4th** -
 
 ## Problem Sets
@@ -44,4 +44,4 @@ See [Submitting Assignments](https://github.com/ubcecon/tutorials/blob/master/su
 1. **Due January 31st** - [Assignment 1](/problem_sets/assignment_1.pdf)
 2. **Due February 16th** - [Assignment 2](/problem_sets/assignment_2.pdf)
 3. **Due March 5th** - [Assignment 3](/problem_sets/assignment_3.pdf)
-    - This assignment has a lot of algebra/theory, and those components can be handed in separately.
+    - The algebra/theory components can be handed in separately on paper.
