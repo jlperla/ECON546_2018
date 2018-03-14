@@ -28,14 +28,14 @@ We will use a combination of typed lecture notes, and [QuantEcon Lecture Notes](
 13. **February 14th** - [Money in Utility](/lecture_notes/money_in_utility.pdf)
 14. **February 26th**- Dynamics of [Money in Utility](/lecture_notes/money_in_utility.pdf) and [Nominal Frictions](/lecture_notes/nominal_frictions.pdf)
 15. **February 28th** - [Nominal Frictions](/lecture_notes/nominal_frictions.pdf)
-16. **March 5th** - Finish [Nominal Frictions](/lecture_notes/nominal_frictions.pdf) and start [New Keynesian Model](/lecture_notes/new_keynesian.pdf)
-17. **March 7th** - Finish [New Keynesian Model](/lecture_notes/new_keynesian.pdf) and maybe start [Optimal Policy](/lecture_notes/monetary_policy_commitment.pdf)
-18. **March 12th** - Finish [Optimal Policy](/lecture_notes/monetary_policy_commitment.pdf)
+16. **March 5th** - Finish [Nominal Frictions](/lecture_notes/nominal_frictions.pdf)
+17. **March 7th** - [New Keynesian Model](/lecture_notes/new_keynesian.pdf)
+18. **March 12th** - Finish [New Keynesian Model](/lecture_notes/new_keynesian.pdf) and [Optimal Policy](/lecture_notes/monetary_policy_commitment.pdf)
 19. **March 14th** -  [Assignment 2](/problem_sets/assignment_2.pdf) and  [Assignment 3](/problem_sets/assignment_3.pdf) review
-20. **March 19th** -
+20. **March 19th** - [Optimal Policy](/lecture_notes/monetary_policy_commitment.pdf)
 21. **March 21st** -
 22. **March 26th** - Empirical PhD presentations/Tutorial
-23. **March 28th** - Empirical PhD presentations/Tutorial
+23. **March 28th** - Tutorial and [Assignment 4](/problem_sets/assignment_4.pdf) review
 24. **April 4th** -
 
 ## Problem Sets
