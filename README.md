@@ -33,10 +33,10 @@ We will use a combination of typed lecture notes, and [QuantEcon Lecture Notes](
 18. **March 12th** - Finish [New Keynesian Model](/lecture_notes/new_keynesian.pdf) and [Optimal Policy](/lecture_notes/monetary_policy_commitment.pdf)
 19. **March 14th** -  [Assignment 2](/problem_sets/assignment_2.pdf) and  [Assignment 3](/problem_sets/assignment_3.pdf) review
 20. **March 19th** - [Optimal Policy](/lecture_notes/monetary_policy_commitment.pdf)
-21. **March 21st** -
+21. **March 21st** - [Monetary Search](/lecture_notes/monetary_search.pdf)
 22. **March 26th** - Empirical PhD presentations/Tutorial
 23. **March 28th** - Tutorial and [Assignment 4](/problem_sets/assignment_4.pdf) review
-24. **April 4th** -
+24. **April 4th** - [Financial Crisis](/lecture_notes/financial_crisis.pdf)
 
 ## Problem Sets
 See [Submitting Assignments](https://github.com/ubcecon/tutorials/blob/master/submitting_code.md) for details on how to submit code, and how to name the files.
@@ -46,4 +46,7 @@ See [Submitting Assignments](https://github.com/ubcecon/tutorials/blob/master/su
 3. **Due March 5th** - [Assignment 3](/problem_sets/assignment_3.pdf)
     - The algebra/theory components can be handed in separately on paper.
 4. **Due March 23rd** -  [Assignment 4](/problem_sets/assignment_4.pdf)
-5. **Due April 9th** - [Referee Report](/problem_sets/referee_report.pdf)
+7. **Due April 9th** - [Referee Report](/problem_sets/referee_report.pdf)
+5. **Due April 11th** -  [Assignment 5](/problem_sets/assignment_5.pdf)
+    - Entirely theoy, can hand in on paper
+6. **Due April 23th** -  Assignment 6
