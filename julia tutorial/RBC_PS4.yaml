@@ -1,0 +1,65 @@
+name: RBC_PS4
+
+
+symbols:
+
+   exogenous: [e_z]
+   states: [z, k]
+   controls: [n, i]
+   parameters: [beta, theta, gamma, delta, rho, alpha, zbar, sig_z]
+   rewards: [u]
+
+definitions:
+    y: exp(z)*k^alpha*n^(1-alpha)
+    c: y - i
+    rk: alpha*y/k
+    w: (1-alpha)*y/n
+
+equations:
+
+    arbitrage:
+        - 1-n-(1-theta)*c/(theta*w)                      | 0.0 <= n <= inf
+        - 1-beta*(c(1)/c)^(theta*(1-gamma)-1)*((1-n(1))/(1-n))^((1-theta)*(1-gamma))*(1-delta+rk(1))  | -inf <= i <= inf
+
+
+    transition:
+        - z = rho*z(-1) + e_z
+        - k = (1-delta)*k(-1) + i(-1)
+
+    felicity:
+        - u = ((c^(theta)*(1-n)^(1-theta))^(1-gamma))/(1-gamma)
+
+calibration:
+
+    # parameters
+    beta : 0.987
+    theta: 0.357
+    delta : 0.012
+    alpha : 0.4
+    rho : 0.95
+    gamma: 2.0
+    sig_z: 0.007
+    zbar: 0.0
+    e_z: 0
+    
+    # endogenous variables
+    n: (1+(1-theta)/(theta*(1-alpha))*(1-beta*(1-delta+alpha*delta))/(1-beta*(1-delta)))^(-1)
+    z: zbar
+    rk: 1/beta-1+delta
+    w: (1-alpha)*exp(z)*(k/n)^(alpha)
+    k: n*((1-beta*(1-delta))/(alpha*beta))^(1/(alpha-1))
+    y: exp(z)*k^alpha*n^(1-alpha)
+    i: delta*k
+    c: y - i
+    u: ((c^(theta)*(1-n)^(1-theta))^(1-gamma))/(1-gamma)
+
+domain:
+    z: [-2*sig_z/(1-rho^2)^0.5,  2*sig_z/(1-rho^2)^0.5]
+    k: [k*0.9, k*1.1]
+
+exogenous: !Normal
+    Sigma: sig_z^2
+
+options:
+    grid: !Cartesian
+        orders: [20, 20]
