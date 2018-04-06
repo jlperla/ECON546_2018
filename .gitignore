@@ -3,3 +3,4 @@
 *.jl.mem
 deps/deps.jl
 .ipynb_checkpoints
+julia tutorial/save/DSGE_exp/output_data/an_schorfheide/ss0/forecast/raw/irfstates_cond=none_para=init_vint=180405.jld

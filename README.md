@@ -49,4 +49,4 @@ See [Submitting Assignments](https://github.com/ubcecon/tutorials/blob/master/su
 7. **Due April 9th** - [Referee Report](/problem_sets/referee_report.pdf)
 5. **Due April 14th** -  [Assignment 5](/problem_sets/assignment_5.pdf)
     - Entirely theoy, can hand in on paper
-6. **Due April 23th** -  Assignment 6
+6. **Due April 23th** -   [Assignment 6](/problem_sets/assignment_6.pdf)
